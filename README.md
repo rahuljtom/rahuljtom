@@ -1,6 +1,6 @@
 # Rahul Joseph Thomas
 
-Backend & Infra Engineer | VIT Vellore '27
+Backend & Infra Engineer | VIT Vellore CS'27
 
 Building production-grade backend systems with a focus on 
 AI infrastructure, distributed systems, and developer tooling.
