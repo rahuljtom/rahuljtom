@@ -1,16 +1,16 @@
-## Hi there 👋
+# Rahul Joseph Thomas
 
-<!--
-**rahuljtom/rahuljtom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend & Infra Engineer | VIT Vellore '27
 
-Here are some ideas to get you started:
+Building production-grade backend systems with a focus on 
+AI infrastructure, distributed systems, and developer tooling.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Building
+- Mini LLM Gateway: unified API across OpenAI/Sarvam/Anthropic 
+  with cost tracking, fallback logic, and observability
+
+## Stack
+Python · Go · FastAPI · PostgreSQL · Redis · Docker · Kubernetes
+
+## Connect
+[https://www.linkedin.com/in/rahuljosephthomas/] [rahuljtoms@gmail.com]
