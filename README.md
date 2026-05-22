@@ -6,7 +6,7 @@ Building production-grade backend systems with a focus on
 AI infrastructure, distributed systems, and developer tooling.
 
 ## Currently Building
-- Mini LLM Gateway: unified API across OpenAI/Sarvam/Anthropic 
+- Mini LLM Gateway: unified API across OpenAI/Anthropic/Groq/Sarvam
   with cost tracking, fallback logic, and observability
 
 ## Stack
